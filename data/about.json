@@ -1,0 +1,106 @@
+{
+  "about": [
+    {
+      "name": "M Fahry Rajabi",
+      "major": "Agribisnis",
+      "role": "Kordes",
+      "picture_url": "/images/profile/fakhri.png"
+    },
+    {
+      "name": "M Rizky Pangestu",
+      "major": "Ekonomi Pembangunan",
+      "role": "Wakil Kordes",
+      "picture_url": "/images/profile/rizky.png"
+    },
+    {
+      "name": "Alda Maylapattra",
+      "major": "Ekonomi Pembangunan",
+      "role": "Sekretaris",
+      "picture_url": "/images/profile/alda.png"
+    },
+    {
+      "name": "Aqna Aulia F",
+      "major": "Agribisnis",
+      "role": "Sekretaris",
+      "picture_url": "/images/profile/aqna.png"
+    },
+    {
+      "name": "Ega Agustina",
+      "major": "Akuntansi",
+      "role": "Bendahara",
+      "picture_url": "/images/profile/ega.png"
+    },
+    {
+      "name": "Wina Sakinah",
+      "major": "Pendidikan Biologi",
+      "role": "Acara",
+      "picture_url": "/images/profile/wina.png"
+    },
+    {
+      "name": "Tiara Hanida",
+      "major": "Manajemen",
+      "role": "Acara",
+      "picture_url": "/images/profile/Tiara.png"
+    },
+    {
+      "name": "Dayat Hidayattuloh",
+      "major": "Ekonomi Pembangunan",
+      "role": "Acara",
+      "picture_url": "/images/profile/dayat.png"
+    },
+    {
+      "name": "Puspa S Rae",
+      "major": "Kesehatan Masyarakat",
+      "role": "Humas",
+      "picture_url": "/images/profile/puspa.png"
+    },
+    {
+      "name": "Sharla Alicia A",
+      "major": "Kesehatan Masyarakat",
+      "role": "Humas",
+      "picture_url": "/images/profile/sharla.png"
+    },
+    {
+      "name": "Iyang Siti T",
+      "major": "Akuntansi",
+      "role": "Humas",
+      "picture_url": "/images/profile/iyang.png"
+    },
+    {
+      "name": "Risni Nurilaeni",
+      "major": "Pendidikan Biologi",
+      "role": "Konsumsi Logistik",
+      "picture_url": "/images/profile/risni.png"
+    },
+    {
+      "name": "Hani Meliani",
+      "major": "Manajemen",
+      "role": "Konsumsi Logistik",
+      "picture_url": "/images/profile/hani.png"
+    },
+    {
+      "name": "Faisal Rahman",
+      "major": "Informatika",
+      "role": "Konsumsi Logistik",
+      "picture_url": "/images/profile/faisal.png"
+    },
+    {
+      "name": "Rizki Ali Muzaki",
+      "major": "Ekonomi Pembangunan",
+      "role": "PDD",
+      "picture_url": "/images/profile/zaki.png"
+    },
+    {
+      "name": "Reihan Maulana I.",
+      "major": "Kesehatan Masyarakat",
+      "role": "PDD",
+      "picture_url": "/images/profile/reihan.png"
+    },
+    {
+      "name": "Ilham Muhaemin",
+      "major": "Ekonomi Pembangunan",
+      "role": "PDD",
+      "picture_url": "/images/profile/imin.png"
+    }
+  ]
+}

@@ -10,7 +10,6 @@ const Guide = dynamic(() => import("@/components/Guide"));
 const Features = dynamic(() => import("@/components/Features"));
 const GetApp = dynamic(() => import("@/components/GetApp"));
 const Testimonials = dynamic(() => import("@/components/Testimonials"));
-const MapSection = dynamic(() => import("@/components/MapSection"));
 
 const Page = () => {
   return (
@@ -26,7 +25,6 @@ const Page = () => {
         <Guide />
         <Features />
         <Testimonials />
-        <MapSection />
         <GetApp />
       </main>
     </div>

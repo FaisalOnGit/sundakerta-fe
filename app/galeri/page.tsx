@@ -50,8 +50,11 @@ const GalleryPage = () => {
       </Head>
 
       <main className="max-w-7xl mx-auto p-4">
-        <h1 className="text-4xl font-bold mb-8 text-center" data-aos="fade-up">
-          Galeri Sundakerta
+        <h1 className="text-5xl font-bold mb-8 text-center" data-aos="fade-up">
+          Galeri{" "}
+          <span className="bg-clip-text  text-transparent bg-gradient-to-r from-green-500 to-teal-400">
+            Sundakerta
+          </span>
         </h1>
         <div className="max-w-3xl mx-auto text-center">
           <p

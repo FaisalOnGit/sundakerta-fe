@@ -6,7 +6,6 @@ import ArticleForm from "@/components/ArticleForm";
 import GaleriForm from "@/components/GaleriForm";
 import UmkmForm from "@/components/UmkmForm";
 import WisataForm from "@/components/WisataForm";
-import AOS from "aos";
 import "aos/dist/aos.css";
 
 const DashboardPage = () => {

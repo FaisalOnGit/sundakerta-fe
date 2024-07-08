@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Logo from "./logo";
 import Link from "next/link";
 
 export default function Footer() {
@@ -17,14 +16,14 @@ export default function Footer() {
                 width={1000}
                 height={1000}
                 src={"/images/unsil.png"}
-                alt="Kabupaten Semarang"
+                alt="Unsil"
               />
               <Image
                 className="w-1/12 md:w-2/12"
                 width={1000}
                 height={1000}
                 src={"/images/tasik.png"}
-                alt="Kabupaten Semarang"
+                alt="Tasikmalaya"
               />
             </div>
             <div className="text-sm text-gray-600">

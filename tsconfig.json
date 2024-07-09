@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/WisataForm.jsx", "components/WisataCard.jsx", "components/UmkmForm.jsx", "components/UmkmCard.jsx", "components/MapSection.jsx", "components/Footer.jsx", "components/Galeri.jsx", "components/GaleriForm.jsx", "components/ArticleForm.jsx", "components/ArticleDetail.jsx", "app/wisata/page.jsx", "app/umkm/page.jsx", "app/galeri/page.jsx", "app/dashboard/page.jsx", "app/artikel/page.jsx"],
   "exclude": ["node_modules"]
 }

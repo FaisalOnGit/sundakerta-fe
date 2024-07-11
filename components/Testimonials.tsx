@@ -79,7 +79,7 @@ export default function Testimonials() {
                   biasa. Diharapkan kedepannya akan menjadi lebih baik lagi. “
                 </blockquote>
                 <cite className="block font-bold text-lg not-italic mb-1">
-                  Bro Anton
+                  Pak Anton
                 </cite>
                 <div className="text-gray-600">
                   <span>Kepala Desa Sundakerta</span>

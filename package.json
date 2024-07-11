@@ -11,6 +11,8 @@
   "dependencies": {
     "aos": "^2.3.4",
     "axios": "^1.7.2",
+    "clsx": "^2.1.1",
+    "daisyui": "^4.12.10",
     "framer-motion": "^11.2.12",
     "leaflet": "^1.9.4",
     "next": "13.5.4",

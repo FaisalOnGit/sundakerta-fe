@@ -18,32 +18,32 @@ export const PEOPLE_URL = [
 // FEATURES SECTION
 export const FEATURES = [
   {
-    title: "Real maps can be offline",
+    title: "Kaya Akan Destinasi Wisata",
     icon: "/map.svg",
     variant: "green",
     description:
-      "We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location",
+      "Desa Sundakerta menawarkan beragam destinasi wisata yang menarik dan tak terlupakan. Dari pemandian air panas yang menenangkan hingga air terjun yang menakjubkan, setiap sudut desa ini memiliki pesona yang unik.",
   },
   {
-    title: "Set an adventure schedule",
+    title: "Beragamnya UMKM di Desa Sundakerta",
     icon: "/calendar.svg",
     variant: "green",
     description:
-      "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+      "Desa Sundakerta tidak hanya dikenal dengan keindahan alamnya, tetapi juga dengan keberagaman Usaha Mikro, Kecil, dan Menengah (UMKM) yang menjanjikan.",
   },
   {
-    title: "Technology using augment reality",
+    title: "Budaya di Desa Sundakerta",
     icon: "/tech.svg",
     variant: "green",
     description:
-      "Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection",
+      "Desa Sundakerta tidak hanya mempesona dengan keindahan alamnya, tetapi juga kaya akan warisan budaya yang memikat hati. Setiap sudut desa ini bercerita tentang sejarah dan tradisi yang telah diwariskan dari generasi ke generasi.",
   },
   {
-    title: "Many new locations every month",
+    title: "Pertanian dan Peternakan Sundakerta",
     icon: "/location.svg",
     variant: "orange",
     description:
-      "Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing",
+      "Lahan subur dan iklim yang mendukung menjadikan Desa Sundakerta sebagai tempat yang ideal untuk berbagai aktivitas pertanian dan peternakan.",
   },
 ];
 

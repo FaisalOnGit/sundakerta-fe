@@ -129,11 +129,11 @@ export default function Footer() {
             <ul className="text-sm">
               <li className="">
                 <a
-                  href="https://wa.me/+6285797585270"
+                  href="https://wa.me/+6285295049703"
                   target="_blank"
                   className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"
                 >
-                  Ibu Ani Nur Aeni <br /> Sekretaris Desa <br /> 085797585270
+                  Pak Acep Syarif <br /> Sekretaris Desa <br /> 085295049703
                 </a>
               </li>
             </ul>

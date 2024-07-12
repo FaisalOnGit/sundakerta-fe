@@ -1,5 +1,5 @@
 import Image from "next/image";
-import TestimonialImage from "@/public/images/testimonial.jpg";
+import TestimonialImage from "@/public/images/testi.jpg";
 
 export default function Testimonials() {
   return (
@@ -79,7 +79,7 @@ export default function Testimonials() {
                   biasa. Diharapkan kedepannya akan menjadi lebih baik lagi. “
                 </blockquote>
                 <cite className="block font-bold text-lg not-italic mb-1">
-                  Pak Anton
+                  Pak Anton Raksadiwangsa
                 </cite>
                 <div className="text-gray-600">
                   <span>Kepala Desa Sundakerta</span>
